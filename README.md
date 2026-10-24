@@ -139,3 +139,18 @@ The repository contains smart contracts, configuration files, and supporting app
 
 ### Development Status
 ReliefChain is a development project. Refer to the existing repository documentation and configuration files for implementation details.
+
+## Setup Guide
+
+### Prerequisites
+Install Git and the development tools required by this project. Check the repository's configuration files to identify the exact dependencies.
+
+### Getting Started
+Clone the repository and open the project folder in your development environment.
+
+### Project Structure
+- `packages/contracts/` — smart contract code and related configuration, if present.
+- Other directories — supporting application code and project resources.
+
+### Configuration and Security
+Review the project's documentation before running it. Keep private keys, passwords, API tokens, and other secrets out of source control.
